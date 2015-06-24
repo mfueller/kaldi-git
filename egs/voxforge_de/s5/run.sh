@@ -25,6 +25,7 @@ njobs=2
 # This recipe can select subsets of VoxForge's data based on the "Pronunciation dialect"
 # field in VF's etc/README files. To select all dialects, set this to "English"
 dialects="((American)|(British)|(Australia)|(Zealand))"
+dialects="deutschland"
 
 # The number of randomly selected speakers to be put in the test set
 nspk_test=20

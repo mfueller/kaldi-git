@@ -8,7 +8,8 @@
 # defines the "DATA_ROOT" variable - the location to store data 
 source ./path.sh
 
-DATA_SRC="http://www.repository.voxforge1.org/downloads/SpeechCorpus/Trunk/Audio/Main/16kHz_16bit"
+#DATA_SRC="http://www.repository.voxforge1.org/downloads/SpeechCorpus/Trunk/Audio/Main/16kHz_16bit"
+DATA_SRC="http://www.repository.voxforge1.org/downloads/de/Trunk/Audio/Main/16kHz_16bit"
 DATA_TGZ=${DATA_ROOT}/tgz
 DATA_EXTRACT=${DATA_ROOT}/extracted
 
